@@ -1,0 +1,14 @@
+header {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.profile {
+  margin-bottom: 4px;
+  margin-top: 15px;
+}
+
+p {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
